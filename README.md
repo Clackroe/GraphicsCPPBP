@@ -1,4 +1,8 @@
-# GBP | C++ BluePrint / C++ BoilerPlate
+# GBP | C++ BluePrint / C++ BoilerPlate For graphics
+
+Includes CMake files to compile and link to GLFW and GLM libraries for addes ease.
+
+-- Checkout [CPPBP](https://github.com/clackroe/CPPBoilerPlate) --
 
 I like my C++ projects to have similar basic structures. This project provides simple and easy to use boiler plate to get started with C++ projects of any size.
 
